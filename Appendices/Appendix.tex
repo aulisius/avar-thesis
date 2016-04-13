@@ -1,0 +1,74 @@
+\chapter{PSEUDOCODE} % Write in your own chapter title
+
+\section{Server}
+
+The server is used to save accident data
+
+\noindent\textbf{Input} : Request \newline
+\textbf{Output} : Response
+
+\begin{verbatim}
+On GET Request
+begin
+Verify AUTH
+if(endpoint == '/db')
+Query DB for all users data
+else if(endpoint == '/db/find')
+Query DB for single user
+else if(endpoint == '/accident/all')
+Query DB for all accident data
+else if(endpoint == '/accident/uuid')
+Query DB for a user’s accident data
+else
+Set status as 404
+endif
+
+Send response
+end
+\end{verbatim}
+
+This defines all the functions for the different GET requests occur
+
+\begin{verbatim}
+On POST request
+begin
+Verify AUTH
+if(endpoint == '/db/new')
+begin
+Verify Payload
+Insert into DB
+endif
+if(endpoint == '/accident/new')
+begin
+Verify Form data
+Insert into DB
+endif
+Send response as 201 if INSERT is success else send 400
+end	
+\end{verbatim}
+
+This defines all the functions for the different POST requests occur.
+
+\begin{verbatim}
+On DELETE request
+begin 
+Verify AUTH
+if(endpoint == ‘/db/remove’)
+begin
+Verify UUID
+Delete from DB
+endif
+end
+\end{verbatim}
+
+This defines all the functions that occur when DELETE request occurs.
+
+\section{Payload Format}
+\label{sub:payload}
+\begin{verbatim}
+{
+UUID: Alphanumeric
+latX: Real
+latY: Real
+}
+\end{verbatim}

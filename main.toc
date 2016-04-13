@@ -1,0 +1,30 @@
+\contentsline {chapter}{ABSTRACT -- ENGLISH}{iii}
+\contentsline {chapter}{LIST OF FIGURES}{vi}
+\contentsline {chapter}{LIST OF TABLES}{vii}
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{viii}
+\contentsline {chapter}{\chapternumberline {1}INTRODUCTION}{1}
+\contentsline {section}{\numberline {1.1}General Overview}{1}
+\contentsline {chapter}{\chapternumberline {2}RELATED WORKS}{3}
+\contentsline {chapter}{\chapternumberline {3}SYSTEM ARCHITECTURE}{5}
+\contentsline {section}{\numberline {3.1}Global Positioning System}{5}
+\contentsline {section}{\numberline {3.2}Global System for Mobile Communication}{7}
+\contentsline {section}{\numberline {3.3}Arduino Microcontroller}{8}
+\contentsline {subsection}{\numberline {3.3.1}Smartphone application}{9}
+\contentsline {chapter}{\chapternumberline {4}EXPERIMENTAL SETUP}{11}
+\contentsline {section}{\numberline {4.1}Hardware setup}{11}
+\contentsline {section}{\numberline {4.2}Software setup}{11}
+\contentsline {section}{\numberline {4.3}Setup}{12}
+\contentsline {chapter}{\chapternumberline {5}METRICS FOR EVALUATION}{13}
+\contentsline {section}{\numberline {5.1}Time to trigger the vehicle prototype}{13}
+\contentsline {section}{\numberline {5.2}Report latency time}{14}
+\contentsline {section}{\numberline {5.3}Reporting false alarms}{15}
+\contentsline {chapter}{\chapternumberline {6}CONCLUSIONS}{17}
+\contentsline {section}{\numberline {6.1}Conclusion}{17}
+\contentsline {section}{\numberline {6.2}Future Work}{17}
+\contentsline {subsection}{\numberline {6.2.1}Time series}{17}
+\contentsline {subsection}{\numberline {6.2.2}Correlation}{18}
+\contentsline {subsection}{\numberline {6.2.3}Analytical Activities of the Data Users}{19}
+\contentsline {appendix}{\chapternumberline {A}PSEUDOCODE}{21}
+\contentsline {section}{\numberline {A.1}Server}{21}
+\contentsline {section}{\numberline {A.2}Payload Format}{23}
+\contentsline {chapter}{\bfseries REFERENCES}{24}

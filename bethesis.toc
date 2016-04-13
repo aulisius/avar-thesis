@@ -1,0 +1,33 @@
+\contentsline {chapter}{ABSTRACT -- ENGLISH}{ii}
+\contentsline {chapter}{LIST OF FIGURES}{v}
+\contentsline {chapter}{LIST OF TABLES}{vi}
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{vii}
+\contentsline {chapter}{\chapternumberline {1}INTRODUCTION}{1}
+\contentsline {section}{\numberline {1.1}General Overview}{1}
+\contentsline {chapter}{\chapternumberline {2}RELATED WORKS}{3}
+\contentsline {chapter}{\chapternumberline {3}PROPOSED WORK}{4}
+\contentsline {chapter}{\chapternumberline {4}SYSTEM ARCHITECTURE}{5}
+\contentsline {section}{\numberline {4.1}Global Positioning System}{5}
+\contentsline {section}{\numberline {4.2}Global System for Mobile Communication}{6}
+\contentsline {section}{\numberline {4.3}Arduino Microcontroller}{7}
+\contentsline {subsection}{\numberline {4.3.1}Smartphone application}{8}
+\contentsline {subsection}{\numberline {4.3.2}Control flow in the system}{9}
+\contentsline {chapter}{\chapternumberline {5}EXPERIMENTAL SETUP}{10}
+\contentsline {section}{\numberline {5.1}Hardware setup}{10}
+\contentsline {section}{\numberline {5.2}Software setup}{10}
+\contentsline {section}{\numberline {5.3}Architecture}{11}
+\contentsline {chapter}{\chapternumberline {6}EVALUATION PARAMETERS}{12}
+\contentsline {section}{\numberline {6.1}Time to trigger the vehicle prototype}{12}
+\contentsline {section}{\numberline {6.2}Report latency time}{12}
+\contentsline {section}{\numberline {6.3}Reporting false alarms}{13}
+\contentsline {chapter}{\chapternumberline {7}DATA ANALYSIS}{15}
+\contentsline {subsection}{\numberline {7.0.1}Time series}{15}
+\contentsline {subsection}{\numberline {7.0.2}Correlation}{15}
+\contentsline {subsection}{\numberline {7.0.3}Analytical Activities of the Data Users}{17}
+\contentsline {chapter}{\chapternumberline {8}PSEUDOCODE}{18}
+\contentsline {section}{\numberline {8.1}Server}{18}
+\contentsline {section}{\numberline {8.2}Payload Format}{20}
+\contentsline {chapter}{\chapternumberline {9}CONCLUSIONS}{21}
+\contentsline {section}{\numberline {9.1}Conclusion}{21}
+\contentsline {section}{\numberline {9.2}Future Work}{21}
+\contentsline {chapter}{\bfseries REFERENCES}{23}
